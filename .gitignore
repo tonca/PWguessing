@@ -1,2 +1,3 @@
-leaks
+leaks/*
+!leaks/.gitkeep
 *.pyc
